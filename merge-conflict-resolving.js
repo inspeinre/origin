@@ -1,2 +1,3 @@
 console.log("merge-conflict-resolving.js file")
-console.log("TODO")
+console.log("update 2")
+
